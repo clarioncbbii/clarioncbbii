@@ -3,8 +3,8 @@
 - 😄 I'm an International Account Manager (SaaS) turned Full Stack Developer. O, how the tables have turned!
 - 🔭 I’m working on completing the <a href="https://techeducators.co.uk/" rel="nofollow">Tech Educators</a> Software Development Bootcamp.
 - 🌱 I’m expanding my tech stack with HTML/CSS/JavaScript and much, much more.
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/nene-nnoruka/" rel="nofollow">LinkedIn</a>.
 - ⚡ I enjoy cooking, baking, sewing, gardening ... the simple things in life.
+-  📫 Feel free to reach out on <a href="https://www.linkedin.com/in/nene-nnoruka/" rel="nofollow">LinkedIn</a>. 
 <!--
 **clarioncbbii/clarioncbbii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
