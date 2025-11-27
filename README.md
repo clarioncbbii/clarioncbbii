@@ -1,5 +1,10 @@
-## Hi there 👋
+## ✨ Hey, I'm Nene ✨
 
+- 😄 I am a National Account Manager turned Full Stack Developer. 
+- 🔭 I’m currently working on completing the <a href="https://techeducators.co.uk/" rel="nofollow">Tech Educators</a> Software Development Bootcamp.
+- 🌱 I’m working on expanding my tech stack with HTML/CSS/JavaScript and much, much more.
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/nene-nnoruka/" rel="nofollow">LinkedIn</a>.
+- ⚡ Fun fact: I am somewhat of a baker - it's been said that I make a very addictive Chantilly Cream Cake. 
 <!--
 **clarioncbbii/clarioncbbii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
